@@ -1,6 +1,6 @@
 import React from 'react';
 import { Jumbotron, Container } from 'reactstrap';
-import image from "../images/about-me-photo.jpg";
+import image from "../images/bremah.jpg";
 import githubLogo from "../images/GitHub-Mark-120px-plus.png";
 import linkedInLogo from "../images/linkedin.png";
 
