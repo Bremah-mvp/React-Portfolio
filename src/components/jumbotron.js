@@ -20,7 +20,7 @@ const MainSection = (props) => {
                             <a className="logo" href="https://www.linkedin.com/in/bremah-lwanga-99b09988/">
                                 <img src={linkedInLogo} alt="LinkedIn logo" id="linkedin" />
                             </a>
-                            <a className="logo" href="file:///C:/Users/mvpbremah/Downloads/Resume%20(1).pdf" id="cv">
+                            <a className="logo" href="https://bremah-mvp.github.io/mvp-bremen/assets/Resume.pdf" id="cv">
                                 CV
                     </a>
                         </Container>
