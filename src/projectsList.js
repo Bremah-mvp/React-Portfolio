@@ -6,6 +6,7 @@ import two from "./images/two.png";
 import annotation  from "./images/annotation.png";
 import project from "./images/project.png";
 import battle from "./images/battle.png";
+import dailyp from "./images/dailyp.png";
 
 
 const items = [
@@ -65,6 +66,15 @@ const items = [
 		link: "https://github.com/Bremah-mvp/Geo-Battle.git",
 		live: "https://lit-beyond-05882.herokuapp.com/"
 	},
+
+	{
+		id: 8,
+		src: dailyp,
+		altText: "DAILY PLANNER APPLICATION",
+		caption: "The application shows the current date and time. Presents time blocks that cover the entire standard working day time . you can then save a even or plan with in the time blocks .",
+		link: "https://github.com/Bremah-mvp/Daily-Planner.git",
+		live: "https://bremah-mvp.github.io/Daily-Planner/"
+	}
 
 ];
 
