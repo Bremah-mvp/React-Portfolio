@@ -1,7 +1,7 @@
 // All images required for the Carousel
 import birdBird from "./images/code.jpg";
 import reelTime from "./images/refactor.png";
-import googleBooks from "./images/googlebooks.png";
+import googleBooks from "./images/dashb.png";
 import fureverHome from "./images/fureverHome.png";
 import clicky from "./images/clicky.png";
 import friendFinder from "./images/friendFinder.png";
@@ -32,11 +32,11 @@ const items = [
 	},
 	{
 		id: 3,
-		src: googleBooks,
-		altText: "Google Books",
-		caption: "This is an app that allows a user to search for books using the Google Books API. Each book populated features the title, authors, an image and a summary for the user to view. By utilizing the Mongoose library, the user has the choice to save the book to a Mongo database, and then remove it later if they wish, from the Saved Books page.",
-		link: "https://github.com/seanbelverstone/Google-Books",
-		live: "https://google-books-mongoose.herokuapp.com/"
+		src: dashb,
+		altText: "Weather Dashboard",
+		caption: " This is a weather application that lets you know the current and the next five days weather of any city in the world.",
+		link: "https://bremah-mvp.github.io/Weather-Dashboard/",
+		live: "https://github.com/Bremah-mvp/Weather-Dashboard.git"
 	},
 	{
 		id: 4,
