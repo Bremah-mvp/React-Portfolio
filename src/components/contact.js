@@ -54,6 +54,7 @@ export default class Example extends React.Component {
 	onSubmit = () => {
    // this.recaptcha.execute();
    //return "thanks, will get "
+   alert("Thanks will get back to you soon as possible");
   }
 
   // If successful, this function runs. It sends an email using emailjs.
