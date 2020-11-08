@@ -4,7 +4,7 @@ import refactor from "./images/refactor.png";
 import dashb from "./images/dashb.png";
 import two from "./images/two.png";
 import annotation  from "./images/annotation.png";
-import friendFinder from "./images/friendFinder.png";
+import project from "./images/project.png";
 import bamazon from "./images/bamazon.jpg";
 import crystal from "./images/crystalcollector.png";
 import fridgeChef from "./images/fridgechef.png";
@@ -56,11 +56,11 @@ const items = [
 	},
 	{
 		id: 6,
-		src: friendFinder,
-		altText: "Friend Finder",
+		src: project,
+		altText: "Work_Bytes",
 		caption: "This app is very similar to 'Which character are you most like?' quizzes that were popular during the Internet's first boom. I enjoyed making this as I got to utilise my favorite film series again - Lord of the Rings. The math required for this app to work properly was challenging but I'm glad to say I overcame it.",
-		link: "https://github.com/seanbelverstone/Friend-Finder",
-		live: "https://fellowship-finder-application.herokuapp.com/"
+		link: "https://github.com/Bremah-mvp/Work_Bytes.git",
+		live: "https://relizabet.github.io/Work_Bytes/"
 	},
 	{
 		id: 7,
