@@ -2,7 +2,7 @@
 import birdBird from "./images/code.jpg";
 import reelTime from "./images/refactor.png";
 import googleBooks from "./images/dashb.png";
-import fureverHome from "./images/fureverHome.png";
+import fureverHome from "./images/two.png";
 import clicky from "./images/clicky.png";
 import friendFinder from "./images/friendFinder.png";
 import bamazon from "./images/bamazon.jpg";
@@ -40,11 +40,11 @@ const items = [
 	},
 	{
 		id: 4,
-		src: fureverHome,
-		altText: "FurEver Home",
-		caption: "I was lucky enough to work with the same group people as I did during 'Fridge Chef' and we grew even further as an adaptable team. We had the option to build the app in React, which we took upon ourselves to attempt. We are happy with the result but do believe that it requires further editing to reach its full potential. The idea for this app was birthed through a strong passion for helping animals and their adoption, as too many are forgotten in shelters. Please adopt!",
-		link: "https://github.com/seanbelverstone/FurEver-Home",
-		live: "https://furever-home-app.herokuapp.com/"
+		src: two,
+		altText: "JAVASCRIPT QUIZ ABOUT NBA BASKETBALL",
+		caption: " This is a test quiz about users knowledge and familiarity about NBA basketball.",
+		link: "https://bremah-mvp.github.io/Javascript-Quiz/",
+		live: "https://github.com/Bremah-mvp/Javascript-Quiz.git"
 	},
 	{
 		id: 5,
