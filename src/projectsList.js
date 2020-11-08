@@ -1,6 +1,6 @@
 // All images required for the Carousel
 import code from "./images/code.jpg";
-import refactor from "./images/refactor.png";
+import refactor from "./images/refactor.jpg";
 import dashb from "./images/dashb.png";
 import two from "./images/two.png";
 import annotation  from "./images/annotation.png";
