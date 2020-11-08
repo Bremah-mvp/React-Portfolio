@@ -12,7 +12,7 @@ const MainSection = (props) => {
                     <Jumbotron fluid>
                         <Container fluid>
                             <h1 className="display-3"> Full Stack Web Developer</h1>
-                            <p className="lead">My personal journey from information Technology  to becoming a programmer.</p>
+                            <p className="lead">Ready to work with you.</p>
 
                             <a className="logo" href="https://github.com/Bremah-mvp">
                                 <img src={githubLogo} alt="GitHub logo" id="github" />
@@ -30,7 +30,7 @@ const MainSection = (props) => {
             <div className="row">
                 <div id="aboutMeSection">
                     <div className="col-lg-3 col-12">
-                        <img src={image} alt="Sean Belverstone" id="myPhoto" />
+                        <img src={image} alt="Bremah " id="myPhoto" />
                     </div>
                     <div className="col-12">
                         <div id="aboutMeText">
@@ -38,6 +38,10 @@ const MainSection = (props) => {
                             <p>Am well equiped for designing front-end and a logical brain for tackling back-end, I'd be an essential asset to your team and ready to battle.</p>
                             <p>Please check out my favorite projects via the navbar above, or even visit my GitHub check out my projects. Can't wait to hear from you.</p>
                         </div>
+                        <div id="contact">
+                           <p>PHONE: 781 492 2173 </p>
+                           <p>Email: mvpbremah@gmail.com</p>
+                            </div>
                     </div>
                 </div>
             </div>
