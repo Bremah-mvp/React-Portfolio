@@ -34,9 +34,9 @@ const MainSection = (props) => {
                     </div>
                     <div className="col-12">
                         <div id="aboutMeText">
-                            <p>As an african i have been through alot of adversities as being born there is surely one of them, i made my way to USA with my hard earned Bachelors degree in infromation technology I am now proficient in React, Javascript, Node.js, Express, HTML & CSS, i should say front and backend</p>
+                            <p>As an african i have been through alot of adversities as being born there is surely one of them(Joke), i made my way to USA with my hard earned Bachelors degree in infromation technology added full stack web development skills. I am now proficient in React, Javascript, Node.js, Express, HTML & CSS, i should say front and backend</p>
                             <p>Am well equiped for designing front-end and a logical brain for tackling back-end, I'd be an essential asset to your team and ready to battle.</p>
-                            <p>Please check out my favorite projects via the navbar above, or even visit my GitHub to see my full catalogue. Can't wait to hear from you.</p>
+                            <p>Please check out my favorite projects via the navbar above, or even visit my GitHub check out my projects. Can't wait to hear from you.</p>
                         </div>
                     </div>
                 </div>
