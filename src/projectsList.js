@@ -23,24 +23,24 @@ const items = [
 		src: refactor ,
 		altText: "Static Website",
 		caption: "This website is a static HTML website using semantic tags and minimal CSS",
-		link: "https://bremah-mvp.github.io/code-refactor/",
-		live: "https://github.com/Bremah-mvp/code-refactor.git"
+		link: "https://github.com/Bremah-mvp/code-refactor.git",
+		live: "https://bremah-mvp.github.io/code-refactor/"
 	},
 	{
 		id: 3,
 		src: dashb,
 		altText: "Weather Dashboard",
 		caption: " This is a weather application that lets you know the current and the next five days weather of any city in the world.",
-		link: "https://bremah-mvp.github.io/Weather-Dashboard/",
-		live: "https://github.com/Bremah-mvp/Weather-Dashboard.git"
+		link: "https://github.com/Bremah-mvp/Weather-Dashboard.git",
+		live: "https://bremah-mvp.github.io/Weather-Dashboard/"
 	},
 	{
 		id: 4,
 		src: two,
 		altText: "JAVASCRIPT QUIZ ABOUT NBA BASKETBALL",
 		caption: " This is a test quiz about users knowledge and familiarity about NBA basketball.",
-		link: "https://bremah-mvp.github.io/Javascript-Quiz/",
-		live: "https://github.com/Bremah-mvp/Javascript-Quiz.git"
+		link: "https://github.com/Bremah-mvp/Javascript-Quiz.git",
+		live: "https://bremah-mvp.github.io/Javascript-Quiz/"
 	},
 	{
 		id: 5,
