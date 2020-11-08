@@ -16,11 +16,11 @@ nav {
 
 .navbar {
   background-color: rgb(4,5,7);
-  color: aliceblue;
+  
 }
 
 .navbar-light .navbar-brand, .nav-link {
-  color: white !important;
+  color: black !important;
   width: 20%;
 
 }
@@ -32,7 +32,7 @@ button.mr-2.navbar-toggler {
 /* Jumbotron */
 
 .jumbotron-fluid {
-  background-image: url("./images/budebackground.jpg");
+  background-image: url("./images/pc.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   margin-top: 50px;
