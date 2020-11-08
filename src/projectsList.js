@@ -1,6 +1,6 @@
 // All images required for the Carousel
 import birdBird from "./images/code.jpg";
-import reelTime from "./images/reelTime.png";
+import reelTime from "./images/refactor.png";
 import googleBooks from "./images/googlebooks.png";
 import fureverHome from "./images/fureverHome.png";
 import clicky from "./images/clicky.png";
@@ -16,7 +16,7 @@ import trivia from "./images/trivia.png";
 const items = [
 		{
 		id: 1,
-		src: Prework-About-Me,
+		src: code,
 		altText: "My first ever Website",
 		caption: "My first professional website. Created entirely by myself.",
 		link: "https://bremah-mvp.github.io/prework-about-me/",
@@ -24,11 +24,11 @@ const items = [
 	},
 	{
 		id: 2,
-		src: reelTime,
-		altText: "Reel Time",
-		caption: "Reel Time is my final graduation project. Utilising a combination of React, Sequelize and Express, and built in a group of 4, this project is a culmination of everything we had learnt on over the previous 6 months. My role in the group was to focus on the back-end, including routing, server setup and database management.",
-		link: "https://github.com/seanbelverstone/Reel-Time",
-		live: "https://reel-time-app.herokuapp.com/"
+		src: refactor ,
+		altText: "Static Website",
+		caption: "This website is a static HTML website using semantic tags and minimal CSS",
+		link: "https://bremah-mvp.github.io/code-refactor/",
+		live: "https://github.com/Bremah-mvp/code-refactor.git"
 	},
 	{
 		id: 3,
