@@ -11,11 +11,12 @@ nav {
   top: 0;
   background-color: dimgray;
   opacity: 0.8;
-  color: white;
+  
 }
 
 .navbar {
   background-color: rgb(4,5,7);
+  color: aliceblue;
 }
 
 .navbar-light .navbar-brand, .nav-link {
