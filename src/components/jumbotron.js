@@ -12,7 +12,7 @@ const MainSection = (props) => {
                     <Jumbotron fluid>
                         <Container fluid>
                             <h1 className="display-3"> Full Stack Web Developer</h1>
-                            <p className="lead">My personal journey from africa  to becoming a programmer.</p>
+                            <p className="lead">My personal journey from information Technology  to becoming a programmer.</p>
 
                             <a className="logo" href="https://github.com/Bremah-mvp">
                                 <img src={githubLogo} alt="GitHub logo" id="github" />
