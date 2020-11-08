@@ -14,8 +14,8 @@ const items = [
 		src: code,
 		altText: "My first ever Website",
 		caption: "My first professional website. Created entirely by myself.",
-		link: "https://bremah-mvp.github.io/prework-about-me/",
-		live: "https://github.com/Bremah-mvp/prework-about-me.git"
+		link: "https://github.com/Bremah-mvp/prework-about-me.git",
+		live: "https://bremah-mvp.github.io/prework-about-me/"
 	},
 	{
 		id: 2,
