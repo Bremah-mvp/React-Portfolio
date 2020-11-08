@@ -1,9 +1,9 @@
 // All images required for the Carousel
-import birdBird from "./images/code.jpg";
-import reelTime from "./images/refactor.png";
-import googleBooks from "./images/dashb.png";
-import fureverHome from "./images/two.png";
-import clicky from "./images/clicky.png";
+import code from "./images/code.jpg";
+import refactor from "./images/refactor.png";
+import dashb from "./images/dashb.png";
+import two from "./images/two.png";
+import annotation  from "./images/annotation.png";
 import friendFinder from "./images/friendFinder.png";
 import bamazon from "./images/bamazon.jpg";
 import crystal from "./images/crystalcollector.png";
