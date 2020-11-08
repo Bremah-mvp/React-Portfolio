@@ -1,5 +1,5 @@
 // All images required for the Carousel
-import birdBird from "./images/birdBird.png";
+import birdBird from "./images/code.jpg";
 import reelTime from "./images/reelTime.png";
 import googleBooks from "./images/googlebooks.png";
 import fureverHome from "./images/fureverHome.png";
@@ -16,11 +16,11 @@ import trivia from "./images/trivia.png";
 const items = [
 		{
 		id: 1,
-		src: birdBird,
-		altText: "Bird Bird Biscuit Website",
-		caption: "My first professional website. Created entirely by myself, featuring a MySQL database and some NPM packages I'd never used before, this application boasts separate pages for customer and employee and will be live at some point in late 2020. I'm so proud of how this turned out and can't wait to see it working for real.",
-		link: "https://github.com/seanbelverstone/Bird-Bird-Ordering",
-		live: "https://birdbirdbiscuit.herokuapp.com/"
+		src: Prework-About-Me,
+		altText: "My first ever Website",
+		caption: "My first professional website. Created entirely by myself.",
+		link: "https://bremah-mvp.github.io/prework-about-me/",
+		live: "https://github.com/Bremah-mvp/prework-about-me.git"
 	},
 	{
 		id: 2,
