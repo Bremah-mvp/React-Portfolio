@@ -5,7 +5,7 @@ import dashb from "./images/dashb.png";
 import two from "./images/two.png";
 import annotation  from "./images/annotation.png";
 import project from "./images/project.png";
-import bamazon from "./images/bamazon.jpg";
+import battle from "./images/battle.png";
 import crystal from "./images/crystalcollector.png";
 import fridgeChef from "./images/fridgechef.png";
 import giftastic from "./images/giftastic.png";
@@ -64,9 +64,9 @@ const items = [
 	},
 	{
 		id: 7,
-		src: bamazon,
-		altText: "Bamazon",
-		caption: "A CLI shopping application much like the famous website with a similar name. Users are able to place orders and deplete stock inventory, all of which is stored on a MYSQL server. The app also uses inquirer (which I LOVE) to guide the user through their experience.",
+		src: battle,
+		altText: "Geo Battle",
+		caption: "Geo-battle is an application where users can create their own customized player who can then battle multiple villains.",
 		link: "https://github.com/seanbelverstone/Bamazon",
 		live: "https://github.com/seanbelverstone/Bamazon"
 	},
@@ -75,8 +75,8 @@ const items = [
 		src: liri,
 		altText: "LIRI - Node App",
 		caption: "LIRI is much like the iPhone's SIRI, but it uses language interpretation rather than speech! LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies and will work through Node's command line input. This was my first, purely back-end application. It opened my eyes to a wider world of programming.",
-		link: "https://github.com/seanbelverstone/liri-node-app",
-		live: "https://github.com/seanbelverstone/liri-node-app"
+		link: "https://github.com/Bremah-mvp/Geo-Battle.git",
+		live: "https://lit-beyond-05882.herokuapp.com/"
 	},
 	{
 		id: 9,
