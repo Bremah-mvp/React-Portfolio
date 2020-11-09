@@ -98,7 +98,25 @@ class Projects extends Component {
         </Carousel>
       </div>
     );
+
+    export default function Footer() {
+
+        const classes = useStyles();
+    
+    return (
+        <footer className={classes.root}>
+            <AppBar className={classes.appBar} position="fixed">
+                <Toolbar>
+                    <Typography component="p" className={classes.title}>
+                        Tiffany L. Brand <i className="far fa-copyright"></i>
+                    </Typography>
+                </Toolbar>
+            </AppBar>
+            <div className={classes.offset} />
+        </footer>
+    );
   }
+}
 }
 
 
