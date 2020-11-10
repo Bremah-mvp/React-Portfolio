@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 
-                                      MY PORTFOLIO
+ MY PORTFOLIO
 
 
                                      Table of Contents
@@ -34,7 +34,7 @@
 ![picture](https://github.com/Bremah-mvp/react-portfolio/blob/main/src/images/app2.png)
 
 
-Technologies
+                              Technologies
 
 React
 
