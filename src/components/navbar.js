@@ -22,18 +22,18 @@ export default class Example extends React.Component {
     return (
       <div>
         <Navbar color="faded" light>
-          <NavbarBrand href="/" className="mr-auto">Bremah Mvp</NavbarBrand>
+          <NavbarBrand href="/react-portfolio" className="mr-auto">Bremah Mvp</NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>
                 <NavItem>
-                    <NavLink tag={Link} to="/">Home</NavLink>
+                    <NavLink tag={Link} to="/react-portfolio">Home</NavLink>
                 </NavItem>
                 <NavItem>
-                    <NavLink tag={Link} to="/projects">Projects</NavLink>             
+                    <NavLink tag={Link} to="/react-portfolio/projects">Projects</NavLink>             
                 </NavItem>
                 <NavItem>
-                    <NavLink tag={Link} to="/contact">Contact</NavLink>            
+                    <NavLink tag={Link} to="/react-portfolio/contact">Contact</NavLink>            
                 </NavItem>
             </Nav>
           </Collapse>
