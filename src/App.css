@@ -20,7 +20,7 @@ nav {
 }
 
 .navbar-light .navbar-brand, .nav-link {
-  color:wheat !important;
+  color: red !important;
   width: 20%;
 
 }
