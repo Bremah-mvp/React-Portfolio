@@ -29,6 +29,10 @@
 
   Screenshots:
 
+![picture](https://github.com/Bremah-mvp/react-portfolio/blob/main/src/images/app.png)
+
+![picture](https://github.com/Bremah-mvp/react-portfolio/blob/main/src/images/app2.png)
+
 
 Technologies
 
@@ -57,5 +61,5 @@ Open http://localhost:3000 to view it in the browser.
 This repository is licensed under the MIT license.
 
                       Questions
-                      
+
 Questions about this repository? Please contact me at mvpbremah@gmail.com. View more of my work in GitHub at Bremah-mvp...
