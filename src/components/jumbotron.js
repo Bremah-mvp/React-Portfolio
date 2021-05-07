@@ -42,6 +42,7 @@ const MainSection = (props) => {
                         <div id="contact">
                            <p>PHONE: 781 492 2173 </p>
                            <p>Email: mvpbremah@gmail.com</p>
+                           <p>mvpbremah@yahoo.com</p>
                             </div>
                     </div>
                 </div>
