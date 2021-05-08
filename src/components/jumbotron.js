@@ -34,7 +34,7 @@ const MainSection = (props) => {
                     </div>
                     <div className="col-12">
                         <div id="aboutMeText">
-                            <p> My name is Bremah Lwanga, Am a full stack web developer, graduated from the university of New Hampshire. I am now proficient in React, Angular,Javascript, Bootstrap, Node.js, Express, HTML & CSS, i should say front and backend</p>
+                            <p> My name is Bremah, A full stack web developer and graduated from the university of New Hampshire. I am now proficient in React, Angular,Javascript, Bootstrap, Node.js, Express, HTML & CSS, i should say front and backend</p>
                             <p>Am well equiped for designing front-end and a logical brain for tackling back-end, I'd be an essential asset to your team and ready to battle.</p>
                             <p>Aside from programing am also an Information technology specialist with a Bachelors Degree in Information technology</p>
                             <p>Please check out my favorite projects via the navbar above, or even visit my GitHub check out my projects. Can't wait to hear from you.</p>
