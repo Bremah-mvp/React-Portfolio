@@ -53,7 +53,7 @@ export default class Example extends React.Component {
   // Begins validation of user for recaptcha
 	onSubmit = () => {
     this.recaptcha.execute();
-   //return "thanks, will get "
+   //return "thanks, will get back to you soon as possible"
    //alert("Thanks will get back to you soon as possible");
   }
 
